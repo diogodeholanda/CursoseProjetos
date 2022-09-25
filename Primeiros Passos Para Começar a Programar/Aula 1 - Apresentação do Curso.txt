@@ -1,0 +1,15 @@
+* OBJETIVO DO CURSO
+Você será capaz de entender o que significa pensar computacionalmente.
+Pensamento aplicável à qualquer área do conhecimento.
+
+Você será capaz de resolver qualquer problema de uma maneira mais objetiva e eficiente.
+
+* PERCURSO
+Aula 1 - História da computação
+Aula 2 - Introdução à lógica de programação
+Aula 3 - Algoritmos
+Aula 4 - Fundamentos de algoritmos
+Aula 5 - Linguagem de programação
+
+
+
