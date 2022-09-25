@@ -1,0 +1,72 @@
+* Baseado em 4 pilares
+- Decomposição
+- Reconhecimento de padrões
+- Abstração
+- Design de Algoritmos
+
+- Decomposição
+Dividir o problema em partes (Segmentar)
+exemplo:
+receita de bolo (separar massa, recheio e depois a cobertura)
+quebra cabeça (separar pelas cores ou bordas) 
+
+- Reconhecimento de padrões
+Identificar padrões e tendências em determinados problemas
+Similaridades e diferenças entre os problemas
+
+- Abstração
+Extrapolar o conceito do problema para uma forma generalista
+Tirar do concreto e levar para o abstrato
+
+- Design de algoritmos
+Entrada - dados - operações - saída
+
+PROCESSO CONTÍNUO
+-Definir uma solção
+-Testar a solução
+-Aperfeiçoamento da solução encontrada
+
+Refinamento-Teste-Analise-Refinamento-Teste-Analise
+
+VARIAÇÃO DOS PILARES
+-Raciocício lógico
+-Refinamento
+
+Abstração-Algoritmos-Refinamento-Raciocínio Lógico-Decomposição-Padrões-Abstração
+
+PILARES
+1. CS + Math
+Desenvolvimento e Abstração; Reconhecimento de padrões...
+
+2. CS + Sci/Eng
+Anális de dados e design de soluções; Definição e uso de abstrações;
+Teste e refinamento de algoritmos
+
+3. CS + Sci/Eng + Math
+Modelagem; Definição de problemas; Definição e uso de abstrações;
+Reconhecimento de padrões
+
+4. Math + Sci/Eng
+Desenvolvimento e abstração; Reconehcimento de Padrões
+
+
+Overview
+Exemplos:
+Química
+- Aperfeiçoamento de reações químicas pela utilização de algoritmos, através da
+identificação de quimícos
+
+Engenharia
+- Simulações de aeronaves exectadas via software em detrimento do tunel de vento
+
+Biologia
+- Modelagem e mapeamento do genoma humano
+
+Computação
+- Simulação de problemas de alta ordem em supercomputadores
+
+Competências
+-Pensamento sistemático
+-Colaboração dentro da equipe
+-Criatividade e design
+-Facilitador

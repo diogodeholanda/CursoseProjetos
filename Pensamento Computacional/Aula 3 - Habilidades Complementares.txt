@@ -1,0 +1,55 @@
+HABILIDADES
+Raciocínio Lógico - Aperfeiçoamento
+
+*Raciocínio Lógico
+-Raciocínio Lógico é uma forma de pensamento estruturado, ou raciocínio,
+que permite encontrar a conclusão ou determinar a resolução de um problema.
+
+-Habilidade de treinamento
+
+*Classificação
+-Indução - Fenômeno observado - Leis e teorias
+Muito utilizados em Ciências experimentais (tentativa e erro, observações a procura de padrões)
+
+-Dedução - (Inversa a Indução - Dada uma Lei e Teoria realiza-se Previsões e explicações 
+Ciencias exatas
+
+-Abdução
+Conclusão-exemplo: A grama está molhada, logo deve ter chovido.
+Diagnósticos - Processo investigativo
+
+Inferência-Sintética-(Abdução/Indução)
+Inferência-Analítica-Dedução
+
+Exemplo de Raciocínio Lógico (não é só resolver problema matemático)
+Um pai, mãe e seu casal de filhos estão sentados em uma mesa. Os homens
+chamam Roberto e Sérgio, as mulheres Teresa e Fernanda. Sabe-se que o pai
+está à frente de Fernanda e o filho a esquerda; e que a mão está ao lado 
+direito de Sérgio (salvei imagem).
+
+*Aperfeiçoamento
+-Melhoramento
+-Aprimoramento
+-Ato de aperfeiçoar
+-Aprimoramento
+-Refinamento
+
+A partir de uma solução, determinnar pontos de melhora e refinamento
+
+-Ato de aperfeiçoar
+Encontrar solução eficiente
+Otimizar processos
+Simplificar linhas de códigos
+Funções bem definidas
+
+Com os dois primeiros - Melhor uso de recursos
+Com os dois ultimos - Moelhorar códigos e algoritmos
+
+Processo Contínuo
+Presente em todas as etapas
+Vantagens;
+Maior compreensão,
+Mais eficiência,
+Menos tempo,
+Menos armazenamento.... 
+(Desenvolver solução - aperfeiçoar)
